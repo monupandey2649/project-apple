@@ -1,0 +1,196 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+   
+   
+   
+  
+    
+}
+.main{
+    background: #11e380;
+    width: 100%;
+   
+    height:665px;
+    border-radius: .5rem;
+    display: flex;
+    align-items: center;
+ 
+    position: relative;
+
+ 
+    
+
+
+}
+.card1{
+    position: absolute;
+    margin-left: 26%;
+    background-color:#b5e93e;
+    
+
+
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    
+    width: 250px;
+    height: 400px;
+    border-radius: .5rem;
+
+   
+   
+   
+}
+.img img{
+   
+    width: 100%;
+ 
+  
+  
+    
+
+
+
+}
+.card2{
+    background-color: #ffffff;
+   
+  
+    
+    height: 460px;
+    width: 480px;
+ margin: 0% 29%;
+    
+   
+ 
+    border-radius: .2rem;
+
+}
+.content{
+    padding-left: 49%;
+    padding-top:9%;
+  
+   
+    
+
+
+}
+.content h3{
+    color: rgb(87, 85, 85);
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.code{
+    color: #b7b6b6;
+    font-size:9px ;
+}
+.list{
+    padding-left:20% ;
+  font-family: cursive;
+    color: rgb(94, 94, 94);
+    font-size: 9px;
+   
+   
+}
+
+
+.appleimg img{
+    height: 20px;
+    border: 1px solid rgb(221, 218, 218);
+    padding:.1rem;
+    border-radius: .3rem;
+    background-color: #fffffff1;
+    
+}
+
+.appleimg{
+    margin-left: 16%;
+}
+.rupai{
+    color: red;
+    font-size:40px;
+    padding-left: 20px;
+   font-family: 'Times New Roman', Times, serif;
+
+}
+.sign{
+    color: red;
+}
+.heading{
+    color: rgb(162, 161, 159);
+    font-size: 10px;
+}
+button{
+    background: #fd3f3f;
+    color: white;
+    font-size: 11px;
+    padding: 5%;
+    width: 150px;
+    height: 45px;
+    border-radius: .4rem;
+    border: none;
+    font-weight: 600;
+    
+    
+}
+.material-symbols-outlined{
+    color: azure;
+   
+  
+    margin-left: 2%;
+    margin-top: 5%;
+    margin-right: 2%;
+  
+   
+    
+    
+   
+   
+   
+   
+    
+}
+.appleimg1 img{
+    height: 30px;
+    border: 1px solid rgb(221, 218, 218);
+    padding:.4rem;
+    border-radius: .3rem;
+    background-color: #ffffff;
+  
+
+}
+.appleimg1{
+    /* margin-left:40px ; */
+    padding-left: 40px;
+    margin-top: 320px;
+    
+
+  
+   height:80px;
+   border-bottom-left-radius: .3rem;
+   border-bottom-right-radius: .3rem;
+   
+   
+
+
+   background-color:#ffffff;
+  
+  
+   
+  
+}
+.imgdiv{
+    
+    border: #eb0404 1px;
+   
+    padding-top: 8%;
+    
+}
+.outsideimg{
+    position: absolute;
+    margin-left: 22%;
+    margin-bottom: 5%;
+   
+}
+.img{
+    width: 280px;
+}
